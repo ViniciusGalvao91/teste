@@ -50,7 +50,7 @@ Envie uma solicitação GET com o 'id' para o seguinte endpoint:
 
 Exemplo:
 
-/tasks/95461cf1-9e88-4845-a230-9450d519e8ce
+/tasks/search/95461cf1-9e88-4845-a230-9450d519e8ce
 
 {
     "id": "95461cf1-9e88-4845-a230-9450d519e8ce",
@@ -62,3 +62,4 @@ Exemplo:
 }
 
 ** Desenvolvido por Vinicius Galvão de Oliveira **
+
